@@ -1,0 +1,8 @@
+site_name: "backstage-generated-docs-repo"
+site_description: "backstage-generated-docs-repo"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
